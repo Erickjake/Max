@@ -135,7 +135,7 @@ main{
 /* Subscription Plans */
 
 .subscription {
-    background: url(../imagens/background-movies-series.png) no-repeat;
+    background: url("../imagens/background-movies-series.png") no-repeat;
     background-size: cover;
     position: relative;
   }
@@ -242,32 +242,32 @@ main{
 /* HBO Content */
 
 .contents_card:nth-child(1):hover {
-    background-image: url(../imagens/hbo-hover_0.webp);
+    background-image: url("../imagens/hbo-hover_0.webp");
 }
 /* Max Originals Content */
 
 .contents_card:nth-child(2):hover {
-    background-image: url(../imagens/MAX-Hover.webp);
+    background-image: url("../imagens/MAX-Hover.webp");
 }
 /* DC Content */
 
 .contents_card:nth-child(3):hover {
-    background-image: url(../imagens/DC-Hover.webp);
+    background-image: url("../imagens/DC-Hover.webp");
 }
 /* WB Content */
 
 .contents_card:nth-child(4):hover {
-    background-image: url(../imagens/WB-Hover.webp);
+    background-image: url("../imagens/WB-Hover.webp");
 }
 /* CN Content */
 
 .contents_card:nth-child(5):hover {
-    background-image: url(../imagens/CN-Hover.png);
+    background-image: url("../imagens/CN-Hover.png");
 }
 /* Champions League  Content */
 
 .contents_card:nth-child(6):hover {
-    background-image: url(../imagens/UCL-Hover.webp);
+    background-image: url("../imagens/UCL-Hover.webp");
 }
 
 /* Media Queries Responsuvudade */
