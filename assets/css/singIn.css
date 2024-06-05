@@ -1,13 +1,9 @@
 @import url("./style.css");
 
-.fundo {
-    position:relative;
-    height: 100%;
-    margin-top: 50px;
-    padding: 100px 0 100px;
-    background: linear-gradient(-45deg, #56125b, #0f0f10, #271e6e);
-    background-size: 300% 300%;
-    animation: gradient 10s ease infinite alternate; 
+body {
+  background-image: url("../images/background-movies-series.png");
+  background-size: cover;
+  height: 100vh;
 }
 .content {
     display: flex;
