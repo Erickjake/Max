@@ -135,7 +135,7 @@ main{
 /* Subscription Plans */
 
 .subscription {
-    background: url(/assets/imagens/background-movies-series.png) no-repeat;
+    background: url(./assets/imagens/background-movies-series.png) no-repeat;
     background-size: cover;
     position: relative;
   }
